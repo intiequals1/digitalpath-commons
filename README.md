@@ -67,6 +67,14 @@ Der Erkenntnisprozess ist konsensorientiert, die Umsetzung hängt nicht an erzwu
 | Woche 6–7 | freiwillige Erprobung mindestens eines Ansatzes | Praxisfeedback |
 | Woche 8 | Reflexion und Entscheidung über die Fortführung | Evaluationsbericht und Governance v0.2 |
 
+## Aufgaben
+
+- [#1 Governance v0.1: Charta, Teilnahmebedingungen und Diskursregeln entwerfen](https://github.com/intiequals1/digitalpath-commons/issues/1)
+- [#2 Issue-Backlog: fünf gemeinsame Probleme als dialektische Issues aufnehmen](https://github.com/intiequals1/digitalpath-commons/issues/2)
+- [#3 Evaluationskriterien der Pilotphase prüfbar machen](https://github.com/intiequals1/digitalpath-commons/issues/3)
+
+Alle Aufgaben des Labors sammeln das [Projektboard](https://github.com/users/intiequals1/projects/6) und die [Aufgabenübersicht](https://github.com/intiequals1/digitalpath-site/issues/1).
+
 ## Mitwirken
 
 Lies [CONTRIBUTING.md](CONTRIBUTING.md). Ohne GitHub-Konto sind Beiträge per E-Mail an claudiu@dangulea.at möglich.
